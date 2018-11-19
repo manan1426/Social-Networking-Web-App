@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+.container{
+
+padding-left: 25%;
+padding-right: 25%;
+padding-top: 5%;
+padding-bottom: 10%;
+
+}
+.boxed{
+
+	border:1px solid black;
+	box-shadow: 5px 5px  5px  5px #1E90FF;
+	width:500px;
+
+}
+.form-group{
+	padding:25px 25px 30px 30px;
+}
+.form-check{
+	padding-left: 9%;
+}
+.btn{
+	margin-left:41%;
+	margin-bottom: 80px;
+}
+h2{
+	padding-top: 5px;
+	padding-left: 55px;
+	margin-left: 60px;
+	margin-right: 60px;
+	font-size: 40px;
+    text-align: center;
+	font-family: 'Righteous', cursive;
+}
+.fa-paw {
+	margin-left: 7%;
+	padding-top: 4px;
+	margin-right: 25%;
+	text-align: center;
+}
+h4{
+	margin-left: 30px;
+	margin-right: 39px;
+	font-size: 25px;
+	text-align: center;
+	 font-family: 'Courgette', cursive;
+}
+#a{
+	float: right;
+	width: 10%;
+	margin-top: 10px;
+}

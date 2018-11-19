@@ -1,0 +1,152 @@
+@charset "ISO-8859-1";
+.jumbotron{
+	padding-top: 10%;
+	margin-top: 2%;
+	padding-left: 60%
+	width:1000px;
+	background:url("https://wallpapercave.com/wp/XmvQhXf.jpg"); 
+	background-size: cover;
+	color:#8B0000;
+}
+.caption{
+	color:#FF0000;
+	font-weight: bold;
+}
+
+.display-4{
+  font-weight: bold;
+font-family: 'Merriweather', serif;
+text-shadow: 2px 2px 5px red;
+}
+.navbar-brand{
+  font-family: 'Righteous', cursive;
+}
+ .fas{
+  color:black;
+  padding-left:5px;
+ }
+ .btn
+ {
+  padding-left: 10px;
+font-family: 'Marmelad', sans-serif;
+ }
+ .bg-light{
+ 	opacity: 0.8;
+    filter: alpha(opacity=80);
+ }
+ .form-inline{
+  padding-top: 10px;
+  padding-left: 30px;
+ }
+ .nav-item{
+  padding-right: 6px;
+  margin: 3px;
+ }
+ 
+
+ #b{
+	border-radius: 100%;
+	background-color: #FAEBD7; 
+    padding-top: 40px; 
+    padding: 50px;
+    margin-left: 200px;
+    margin-top: 40px;
+    width: 700px;
+    height: 600px; 
+  box-shadow: 3px 3px 3px  3px #B22222;
+}
+ #s
+ {
+    border-radius: 100%;
+    background: url("https://images.unsplash.com/photo-1529244927325-b3ef2247b9fb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=37ecb282dbe66459c217ef28842c879a&auto=format&fit=crop&w=750&q=80");
+    background-position: left top;
+    background-repeat: repeat;
+    padding-top: 2px; 
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right:50px;
+    margin-left: 210px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px; 
+}
+ .bottomDiv
+ {
+   position:relative;
+   bottom:140px;
+
+ }
+
+.row{
+	padding:10px; 
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.row-eq-height {
+	display: flex;
+				display: -webkit-flex;
+				flex-wrap: wrap;
+ 				
+ 		
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    height: 270px;
+    overflow: hidden;
+}
+
+body{
+	padding-top: 60px;
+	color:#FFE4E1;
+	
+}
+.footer{
+    height: 300px;
+    width:300%;
+    background: white;
+    position: relative;
+    font-size:60px;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin: 0 auto;
+
+}
+.caption{
+	font-family:'Gochi Hand', cursive;
+}
+
+h1{
+  margin-left: 30px;
+  font-size: 50px;
+  font-family: 'Righteous', cursive;
+}
+h6{
+  size:20px;
+  text-align: center;
+  margin-right: 25px;
+}
+.a{
+
+  padding-left: 40%;
+  padding-top:10px;
+  text-align: center;
+}
+.h{
+	width: 900px;
+	border-top:3px solid #f8f8f8;
+	border-bottom: 3px solid rgba(0,0,0,0.2);
+}
+.hb{
+	width: 400px;
+	border-top:3px solid #f8f8f8;
+	border-bottom: 3px solid rgba(0,0,0,0.2);
+}
+#head{
+font-family: 'Monoton', cursive;}
+#tail{
+	font-family: 'Monoton', cursive;
+font-family: 'Acme', sans-serif;
+}
+.xyz{
+	background-color:#D3D3D3;
+}

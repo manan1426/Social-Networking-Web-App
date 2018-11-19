@@ -1,0 +1,188 @@
+@charset "ISO-8859-1";
+
+.navbar-brand{
+  font-family: 'Righteous', cursive;
+}
+ .fas{
+  color:black;
+  padding-left:5px;
+ }
+ .btn
+ {
+  padding-left: 10px;
+font-family: 'Marmelad', sans-serif;
+ }
+ .form-inline{
+  padding-top: 10px;
+  padding-left: 30px;
+ }
+ .nav-item{
+  padding-right: 6px;
+  margin: 3px;
+ }
+
+#z{
+  width:800px;
+  height: 500px;
+
+}
+.jumbotron{
+padding-top: 100px;
+background-color:#E0FFFF;
+
+}
+.display-4{
+  font-weight: bold;
+font-family: 'Merriweather', serif;
+text-shadow: 2px 2px 5px grey;
+}
+
+#container{
+  width:800px;
+  overflow:hidden;
+
+}
+
+
+#sliderbox{
+  width:4800px;
+  height:500px;
+  position: relative;
+  animation-name: slideranimation;
+  animation-duration: 16s;
+  animation-iteration-count: infinite;
+  margin: 100px auto;
+  }
+
+  #sliderbox img{
+    float:left;
+    width:800px;
+  }
+
+  @keyframes slideranimation{
+
+0%{
+    left:0px;
+    }
+20%{
+  left: 0px;
+
+}
+25%{
+  left:-800px;
+
+}
+45%{
+  left:-800px;
+}
+50%
+{
+  left: -1600px;
+
+}
+
+70%{
+  left: -1600px;
+
+}
+75%{
+  left:-2400;
+}
+
+  }
+
+
+ 
+  
+#head{
+  color: #0FF88FF;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 80px;
+}
+.polaroids {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.polaroid {
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+  width: 250px;
+}
+
+.polaroid img {
+  border: 12px solid #fff;
+  border-bottom: 70px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #888;
+  -moz-box-shadow: 3px 3px 3px #888;
+  box-shadow: 3px 3px 3px #888;
+  height: auto;
+  max-width: 100%;
+}
+
+.polaroid p {
+  color: #888;
+  font: 500 18px/22px Arial, sans-serif;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+
+.l{
+  padding-top: 10px;
+}
+
+ .ab
+ {
+  border-radius: 20px;
+  padding-left: 20px;
+font-family: 'Marmelad', sans-serif;
+ }
+
+.a{
+
+  padding-left: 40%;
+  padding-top:10px;
+  text-align: center;
+}
+.footer{
+    height: 500px;
+    width:100%;
+    background: white;
+    position: relative;
+    font-size:60px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+h1{
+  margin-left: 30px;
+  font-size: 50px;
+}
+h6{
+  size:20px;
+  text-align: center;
+  margin-right: 30px;
+}
+.bg-light{
+  opacity: 0.8;
+    filter: alpha(opacity=80);
+ }
+ .xyz{
+  background-color: #F0FFF0;
+
+ }
+ .h{
+  width: 900px;
+  border-top:1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.hb{
+  width: 400px;
+  border-top:1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}

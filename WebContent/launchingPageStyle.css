@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+body{
+background: url("https://images.unsplash.com/photo-1531844806351-6f135a39b0a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45841e5d660217849f2efc13e6b8d0ca&auto=format&fit=crop&w=750&q=80");
+background-size:cover; 
+background-position: center;
+}
+#content{
+	text-align: center;
+	color: black;
+	padding: 30%;
+}
+h1{
+	font-size: 4em;
+}
+
+html{
+	height: 150%;
+}
+hr{
+	width: 400px;
+	border-top:1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.navbar-brand{
+	font-family: 'Righteous', cursive;
+}
+ .fas{
+ 	color:black;
+ 	padding-left:5px;
+ }
+ .form-group{
+ 	padding: 7px;
+ 	padding-right: 6px;
+ 	margin: 3px;
+ 	font-family: 'Marmelad', sans-serif;
+ }
+ .btn{
+font-family: 'Marmelad', sans-serif;
+ }
+ .fixed-top{
+ 	height: 80px;
+ }
+ .nav-item{
+ 	padding-right: 6px;
+ 	margin: 3px;
+ }
+ label{
+ 	padding: 10px;
+ }
+h1{ 
+	font-family: 'Luckiest Guy', cursive;
+	text-shadow: 2px 2px 8px #FFFFFF;
+}
+h4{
+	font-family:'Gochi Hand', cursive;
+	font-size:30px;
+	font-weight: bold;
+	text-shadow: 2px 2px 8px #FFFFFF;
+
+}
+.a{
+
+	padding-left: 40%;
+	padding-top:10px;
+	text-align: center;
+}
+
+ .footer{
+    height: 500px;
+    width:100%;
+    background: white;
+    position: relative;
+    font-size:60px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+h2{
+	margin-left: 30px;
+	font-size: 50px;
+	font-family: 'Righteous', cursive;
+}
+h6{
+	size:20px;
+	text-align: center;
+	margin-right: 30px;
+
+}
