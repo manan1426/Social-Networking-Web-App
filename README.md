@@ -1,0 +1,2 @@
+# Social-Networking-Web-App
+A dynamic web application using J2EE technologies such as Servlets, JSP,Google Search API, Web services,Java Mail API, JDBC,mysql. Scripts used for front-end are HTML CSS JavaScript.It has login and sign-up page having various authentications and OTP is send to the mail id when the user Sign up .Like every other social networking sites it has an image gallery in which user can add his photos and status. 
